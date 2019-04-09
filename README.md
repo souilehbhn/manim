@@ -101,6 +101,8 @@ It is also possible to stream directly to Twitch. To do that simply pass
 --with-key. Then when you follow the above example the stream will directly
 start on your Twitch channel (with no audio support).
 
+###Write arabic text
+To add Arabic text add "\\selectlanguage{arabic}\n" before the text.
 
 ## Contributing
 Is always welcome. In particular, there is a dire need for tests and documentation.
